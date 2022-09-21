@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1663793066 source:c:\users\ojahi\onedrive\bureau\nouveau dossier (4)\jahid\jahid_oussama\main.c
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+
